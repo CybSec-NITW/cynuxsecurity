@@ -21,7 +21,7 @@ enum OS {
 
 const itemsByOs = {
   [OS.UNKNOWN]: {
-    title: 'pip, conda, brew',
+    title: 'Download Here',
     url: `/doc/install`,
     download: false
   },
@@ -31,17 +31,12 @@ const itemsByOs = {
     download: true
   },
   [OS.WINDOWS]: {
-    title: 'Get ISO',
+    title: 'Get vbox',
     url: `https://cynuxsecurity.org/download`,
     download: true
   },
   [OS.LINUX]: {
-    title: 'Get ISO',
-    url: `https://cynuxsecurity.org/download`,
-    download: true
-  },
-  [OS.LINUX_RPM]: {
-    title: 'Get ISO',
+    title: 'Get VMWare',
     url: `https://cynuxsecurity.org/download`,
     download: true
   }
@@ -51,8 +46,7 @@ const dropdownItems = [
   null,
   OS.OSX,
   OS.WINDOWS,
-  OS.LINUX,
-  OS.LINUX_RPM
+  OS.LINUX
 ]
 
 interface IDownloadButtonDropdownItemsProps {
