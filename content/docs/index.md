@@ -29,5 +29,5 @@ channels if you have any questions or need specific help. We are very responsive
 ✅ Check out our [GitHub repository](https://github.com/CybSec-NITW/cynuxsecurity) and give
 us a ⭐ if you like the project!
 
-✅ Contribute to DVC [on GitHub](https://github.com/CybSec-NITW/cynuxsecurity) or help us
+✅ Contribute to Cynux [on GitHub](https://github.com/CybSec-NITW/cynuxsecurity) or help us
 improve this [documentation](https://github.com/CybSec-NITW/cynuxsecurity) 🙏.
