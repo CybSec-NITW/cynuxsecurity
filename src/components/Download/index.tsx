@@ -25,14 +25,14 @@ const DownloadPage: React.FC = () => (
               src="/img/features/icons/git-icon.svg"
               alt="Git compatible"
             />
-            <h3 className={styles.featureName}>Cynux Security KDE ISO</h3>
+            <h3 className={styles.featureName}>Cynux Security ISO</h3>
             <div className={styles.featureDescription}>
             For Professional Use.<br></br>
             Security Tools Included.<br></br>
-            KDE desktop.<br></br>
+            GNOME desktop.<br></br>
             Beta version <br></br>
              <Link
-                href="link"
+                href="https://sourceforge.net/projects/cynuxsecurity/files/rel0.1/cynuxsecurity-2020.12.18-x86_64.iso/download"
                 className={styles.featureName}
                 target="_blank"
                >
@@ -86,11 +86,11 @@ const DownloadPage: React.FC = () => (
               src="/img/features/icons/branching.svg"
               alt="Low-friction branching"
             />
-            <h3 className={styles.featureName}>Cynux Security GNOME ISO</h3>
+            <h3 className={styles.featureName}>Cynux Security KDE ISO</h3>
             <div className={styles.featureDescription}>
             For Professional Use.<br></br>
             Security Tools Included.<br></br>
-            GNOME desktop.<br></br>
+            KDE desktop.<br></br>
              <Link
                 href="link"
                 className={styles.featureName}
