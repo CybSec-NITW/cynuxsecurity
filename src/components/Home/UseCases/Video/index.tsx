@@ -37,7 +37,7 @@ const Video: React.FC<{ id: string }> = ({ id }) => {
           title="Video"
           width="560"
           height="315"
-          src={`https://www.youtube.com/embed/${id}?rel=0&amp;controls=0&amp;showinfo=0;${
+          src={`https://www.youtube.com/embed/iteia4_n8Jc?rel=0&amp;controls=0&amp;showinfo=0;${
             isWatching ? `&autoplay=1` : ''
           }`}
           frameBorder="0"
