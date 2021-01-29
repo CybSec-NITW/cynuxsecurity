@@ -32,7 +32,7 @@ const DownloadPage: React.FC = () => (
             GNOME desktop.<br></br>
             Beta version <br></br>
              <Link
-                href="https://sourceforge.net/projects/cynuxsecurity/files/rel0.1/cynuxsecurity-2020.12.18-x86_64.iso/download"
+                href="https://sourceforge.net/projects/cynuxsecurity/files/latest/download"
                 className={styles.featureName}
                 target="_blank"
                >
